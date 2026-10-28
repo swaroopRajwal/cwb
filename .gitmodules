@@ -1,0 +1,6 @@
+[submodule "cwb-client"]
+	path = cwb-client
+	url = git@github.com:swaroopRajwal/chat-with-pdf-client.git
+[submodule "cwb-server"]
+	path = cwb-server
+	url = git@github.com:swaroopRajwal/chat-with-pdf-service.git
